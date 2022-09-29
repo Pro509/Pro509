@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pro509
+- 👋 Hi, I’m Pritish!
 - 👀 I’m interested in Data Science, Machine Learning, Web Development and Blockchain
 - 🌱 I’m currently learning Web Development and Machine Learning
 - 💞️ I’m looking to collaborate on a Web App that conducts real-time sentiment analysis on articles
